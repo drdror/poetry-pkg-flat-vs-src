@@ -3,6 +3,7 @@
 * As of version `2.1.2` of `poetry`.
 * We will use `poetry new` to create new projects.
 * Compare the structure and code of a `flat` vs. `./src` layouts.
+* Compare the generated `pyproject.toml` files.
 
 **References**
 
